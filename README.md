@@ -15,7 +15,6 @@ Please, find bellow the set of instructions:
 - rrb :reverse rotate 'b' - shift down all elements of stack 'b' by 1;
 - rrr :rra and rrb at the same time.
 
-Usage
 Run make.
 Then you shall input the program plus the arguments, which are the list of numbers to organize. For example:
 
